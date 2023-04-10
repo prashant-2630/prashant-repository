@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Nautilus.desktop" score="30" last-seen="1680945655"/>
+    <application id="nautilus-autorun-software.desktop" score="0" last-seen="0"/>
+    <application id="org.gnome.Terminal.desktop" score="1100" last-seen="1680945655"/>
+    <application id="rhythmbox.desktop" score="2" last-seen="1680945376"/>
+    <application id="snap-store_ubuntu-software.desktop" score="1" last-seen="1680945374"/>
+  </context>
+</application-state>
